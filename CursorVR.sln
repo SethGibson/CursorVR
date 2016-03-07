@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorVR.CSharp.Plugins", "CursorVR.CSharp.Plugins.csproj", "{8A7571E7-6E28-87F3-74E5-26CD67D7C8FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorVR.CSharp", "CursorVR.CSharp.csproj", "{15AC70BD-401F-9D2A-A36B-7B691FABF064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorVR.CSharp.Editor", "CursorVR.CSharp.Editor.csproj", "{57B0BA5B-81A4-4311-7C74-9D7169F95E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7571E7-6E28-87F3-74E5-26CD67D7C8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7571E7-6E28-87F3-74E5-26CD67D7C8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7571E7-6E28-87F3-74E5-26CD67D7C8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7571E7-6E28-87F3-74E5-26CD67D7C8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15AC70BD-401F-9D2A-A36B-7B691FABF064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AC70BD-401F-9D2A-A36B-7B691FABF064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AC70BD-401F-9D2A-A36B-7B691FABF064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AC70BD-401F-9D2A-A36B-7B691FABF064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B0BA5B-81A4-4311-7C74-9D7169F95E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B0BA5B-81A4-4311-7C74-9D7169F95E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B0BA5B-81A4-4311-7C74-9D7169F95E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B0BA5B-81A4-4311-7C74-9D7169F95E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
